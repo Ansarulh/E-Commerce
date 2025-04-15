@@ -7,6 +7,17 @@ This project was completed as part of a business case where I was hired as a dat
 I conducted comprehensive data cleaning, SQL analysis, and interactive dashboarding in Power BI, validated through Excel pivot tables and Power Query.
 
 
+### Dataset
+ - The dataset have 8 tables
+  - 1. Customers
+  - 2. Orders
+  - 3. Products
+  - 4. Sellers.
+  - 5. Order_Items.
+  - 6. Order_review_rating.
+  - 7. Order_Payments.
+  - 8. Geo_Locations
+    
 #### 🎯 Business Objectives
 The client shared a set of core business questions to address, including (but not limited to):
 - How is the business performing in terms of sales, customers, and products?
