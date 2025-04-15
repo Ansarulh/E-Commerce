@@ -147,5 +147,10 @@ Hi, I'm Ansarul – a final-year Computer Science and Data Science student passi
 #####  Let’s connect: [LinkedIn](www.linkedin.com/in/ansarulhoque)
 
 
+### ⭐ If You Found This Useful...
+Feel free to fork this repo, give it a ⭐, or share it with someone looking to learn Business Intelligence from scratch!
+
+
+
 
 
