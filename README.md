@@ -35,7 +35,28 @@ Excel	Validation using Pivot Tables, Formulas & Power Query
 
 •	KPIs: Total Revenue (₹13.6M), Quantity, Products, Categories, Locations, AOV, Avg. Rating, Delivery Days.
 
-•	💡 Insight: Andhra Pradesh alone contributes ~60% of revenue; most orders are paid via Credit Card.
+##### •	💡 Insight: Andhra Pradesh alone contributes ~60% of revenue; most orders are paid via Credit Card.
 
 
+#### 🟨 Page 2: Customer Behaviour Analysis
+•	New Customers by Month/Quarter/Year.
 
+•	Revenue by Customer Segment.
+
+•	Avg. Instalments by Segment.
+
+•	Top Product Categories by State.
+
+##### •	💡 Insight: Most customers fall into the <₹1K segment; peak customer acquisition happens in November.
+
+
+#### 🟩 Page 3: Product & Seller Insights
+•	Product Listings by Category.
+
+•	Revenue & Quantity by Category.
+
+•	Top/Least Rated Categories.
+
+•	Seller Segmentation by Revenue.
+
+##### •	💡 Insight: “bed_bath_table” is the most listed & sold category; 82% of sellers are low performers.
