@@ -1,4 +1,4 @@
-# E-Commerce
+# 🛒 E-Commerce Business Analysis using SQL, Power BI & Excel
 ### Project Overview
 
 #### 📌 Project Overview
