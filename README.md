@@ -18,6 +18,8 @@ I conducted comprehensive data cleaning, SQL analysis, and interactive dashboard
   - 7. Order_Payments.  
   - 8. Geo_Locations
    - <a href= "https://github.com/Ansarulh/E-Commerce-Business-Intelligence-Project/blob/main/E-Commerce%20dataset.zip" >Download Dataset
+
+
 #### 🎯 Business Objectives
 The client shared a set of core business questions to address, including (but not limited to):
 - How is the business performing in terms of sales, customers, and products?
@@ -41,7 +43,7 @@ Tools
   - [Download here](https://www.microsoft.com)
 
 ### 📊 Dashboard Overview (Power BI)
- - [Download here] (#https://github.com/Ansarulh/E-Commerce/commit/68bdec865228508bc78629670b4002edce852d47)
+- <a href = "https://github.com/Ansarulh/E-Commerce-Business-Intelligence-Project/commit/68bdec865228508bc78629670b4002edce852d47" > Download Power BI Dashboard
 #### 🟦 Page 1: Executive Summary
 ##### Key Metrics & Visuals:
 •	Revenue by State, Day, Month, Payment Type, Hour.
