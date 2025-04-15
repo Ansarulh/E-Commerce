@@ -15,9 +15,9 @@ I conducted comprehensive data cleaning, SQL analysis, and interactive dashboard
   - 4. Sellers.
   - 5. Order_Items.
   - 6. Order_review_rating.
-  - 7. Order_Payments.
+  - 7. Order_Payments.  
   - 8. Geo_Locations
-    https://github.com/Ansarulh/E-Commerce-Business-Intelligence-Project/blob/main/E-Commerce%20dataset.zip >Download Dataset
+  - <a href= "https://github.com/Ansarulh/E-Commerce-Business-Intelligence-Project/blob/main/E-Commerce%20dataset.zip" >Download Dataset
 #### 🎯 Business Objectives
 The client shared a set of core business questions to address, including (but not limited to):
 - How is the business performing in terms of sales, customers, and products?
