@@ -1,6 +1,41 @@
 # E-Commerce
 ### Project Overview
 
-This project is part of a consulting engagement between XYZ and one of India’s leading online marketplaces. The client aimed to improve their understanding of key business areas such as customer behavior, seller performance, product trends, and channel effectiveness through data-driven insights.
+#### 📌 Project Overview
+This project was completed as part of a business case where I was hired as a data analyst by XYZ, supporting one of India’s leading online marketplaces. The client wanted to measure, manage, and analyse their business performance with a focus on customer behaviour, seller trends, product popularity, and payment channel insights.
 
-As a Business Analyst, I was responsible for data cleaning, exploratory data analysis (EDA), and deriving actionable insights to support strategic decisions
+I conducted comprehensive data cleaning, SQL analysis, and interactive dashboarding in Power BI, validated through Excel pivot tables and Power Query.
+
+
+#### 🎯 Business Objectives
+The client shared a set of core business questions to address, including (but not limited to):
+•	How is the business performing in terms of sales, customers, and products?
+•	What’s the trend in customer acquisition and retention?
+•	Which products/categories are most and least popular?
+•	How are customers paying, and what’s their satisfaction level?
+•	Can we segment customers and sellers based on revenue?
+
+
+#### 💼 My Role
+As the analyst, I was responsible for turning raw data into actionable insights across SQL Server, Power BI, and Excel. I built an end-to-end solution with clear visuals, KPIs, and business storytelling.
+
+
+#### 🧰 Tools & Technologies
+Tool	Purpose
+SQL Server	Data cleaning, exploratory analysis
+Power BI	Dashboarding and visual storytelling
+Excel	Validation using Pivot Tables, Formulas & Power Query
+
+
+### 📊 Dashboard Overview (Power BI)
+
+#### 🟦 Page 1: Executive Summary
+##### Key Metrics & Visuals:
+•	Revenue by State, Day, Month, Payment Type, Hour.
+
+•	KPIs: Total Revenue (₹13.6M), Quantity, Products, Categories, Locations, AOV, Avg. Rating, Delivery Days.
+
+•	💡 Insight: Andhra Pradesh alone contributes ~60% of revenue; most orders are paid via Credit Card.
+
+
+
