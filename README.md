@@ -21,11 +21,13 @@ As the analyst, I was responsible for turning raw data into actionable insights 
 
 
 #### 🧰 Tools & Technologies
-Tool	Purpose
-SQL Server	Data cleaning, exploratory analysis
-Power BI	Dashboarding and visual storytelling
-Excel	Validation using Pivot Tables, Formulas & Power Query
-
+Tools	
+- SQL Server -	Data cleaning, exploratory analysis
+  - [Download here](https://www.microsoft.com)
+- Power BI - Dashboarding and visual storytelling
+   - [Download here](https://www.microsoft.com)
+- Excel -	Validation using Pivot Tables, Formulas & Power Query
+  - [Download here](https://www.microsoft.com)
 
 ### 📊 Dashboard Overview (Power BI)
 
@@ -147,7 +149,7 @@ The dashboards created in this project can serve as templates for real-time moni
 
 ### 🙋‍♂️ About Me
 Hi, I'm Ansarul – a final-year Computer Science and Data Science student passionate about data analytics, storytelling with visuals, and building smart solutions that drive decisions.
-#####  Let’s connect: [LinkedIn](www.linkedin.com/in/ansarulhoque)
+#####  Let’s connect: [LinkedIn](#www.linkedin.com/in/ansarulhoque)
 
 
 ### ⭐ If You Found This Useful...
