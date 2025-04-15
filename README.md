@@ -91,7 +91,7 @@ The full SQL work covered:
 -	Segmentation of customers/sellers based on revenue.
 -	Customer satisfaction by rating, location, product, category.
 
-
+ - <a href = "https://github.com/Ansarulh/E-Commerce-Business-Intelligence-Project/commit/5d6e6f33cf42a283d4001e27dcbd0148cc1254e3" >Download SQL File
 
 ### 🔍 Key Insights
 -	💸 60% revenue comes from Andhra Pradesh.
