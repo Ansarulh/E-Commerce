@@ -8,16 +8,18 @@ I conducted comprehensive data cleaning, SQL analysis, and interactive dashboard
 
 
 ### Dataset
- - The dataset have 8 tables
+ The dataset have 8 tables
   - 1. Customers
   - 2. Orders
   - 3. Products
   - 4. Sellers.
   - 5. Order_Items.
   - 6. Order_review_rating.
-  - 7. Order_Payments.
+  - 7. Order_Payments.  
   - 8. Geo_Locations
-    
+   - <a href= "https://github.com/Ansarulh/E-Commerce-Business-Intelligence-Project/blob/main/E-Commerce%20dataset.zip" >Download Dataset
+
+
 #### 🎯 Business Objectives
 The client shared a set of core business questions to address, including (but not limited to):
 - How is the business performing in terms of sales, customers, and products?
@@ -41,7 +43,7 @@ Tools
   - [Download here](https://www.microsoft.com)
 
 ### 📊 Dashboard Overview (Power BI)
- - [Download here] (#https://github.com/Ansarulh/E-Commerce/commit/68bdec865228508bc78629670b4002edce852d47)
+- <a href = "https://github.com/Ansarulh/E-Commerce-Business-Intelligence-Project/commit/68bdec865228508bc78629670b4002edce852d47" > Download Power BI Dashboard
 #### 🟦 Page 1: Executive Summary
 ##### Key Metrics & Visuals:
 •	Revenue by State, Day, Month, Payment Type, Hour.
@@ -91,7 +93,7 @@ The full SQL work covered:
 -	Segmentation of customers/sellers based on revenue.
 -	Customer satisfaction by rating, location, product, category.
 
-
+ - <a href = "https://github.com/Ansarulh/E-Commerce-Business-Intelligence-Project/commit/5d6e6f33cf42a283d4001e27dcbd0148cc1254e3" >Download SQL File
 
 ### 🔍 Key Insights
 -	💸 60% revenue comes from Andhra Pradesh.
@@ -138,7 +140,8 @@ The dashboards created in this project can serve as templates for real-time moni
 
 ### 🙋‍♂️ About Me
 Hi, I'm Ansarul – a final-year Computer Science and Data Science student passionate about data analytics, storytelling with visuals, and building smart solutions that drive decisions.
-#####  Let’s connect: [LinkedIn](#www.linkedin.com/in/ansarulhoque)
+#####  Let’s connect:
+- [LinkedIn](www.linkedin.com/in/ansarulhoque)
 
 
 ### ⭐ If You Found This Useful...
