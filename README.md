@@ -8,7 +8,7 @@ I conducted comprehensive data cleaning, SQL analysis, and interactive dashboard
 
 
 ### Dataset
- - The dataset have 8 tables
+ The dataset have 8 tables
   - 1. Customers
   - 2. Orders
   - 3. Products
@@ -17,7 +17,7 @@ I conducted comprehensive data cleaning, SQL analysis, and interactive dashboard
   - 6. Order_review_rating.
   - 7. Order_Payments.  
   - 8. Geo_Locations
-  - <a href= "https://github.com/Ansarulh/E-Commerce-Business-Intelligence-Project/blob/main/E-Commerce%20dataset.zip" >Download Dataset
+   - <a href= "https://github.com/Ansarulh/E-Commerce-Business-Intelligence-Project/blob/main/E-Commerce%20dataset.zip" >Download Dataset
 #### 🎯 Business Objectives
 The client shared a set of core business questions to address, including (but not limited to):
 - How is the business performing in terms of sales, customers, and products?
