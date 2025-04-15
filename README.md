@@ -9,11 +9,11 @@ I conducted comprehensive data cleaning, SQL analysis, and interactive dashboard
 
 #### 🎯 Business Objectives
 The client shared a set of core business questions to address, including (but not limited to):
-•	How is the business performing in terms of sales, customers, and products?
-•	What’s the trend in customer acquisition and retention?
-•	Which products/categories are most and least popular?
-•	How are customers paying, and what’s their satisfaction level?
-•	Can we segment customers and sellers based on revenue?
+- How is the business performing in terms of sales, customers, and products?
+-	What’s the trend in customer acquisition and retention?
+-	Which products/categories are most and least popular?
+-	How are customers paying, and what’s their satisfaction level?
+-	Can we segment customers and sellers based on revenue?
 
 
 #### 💼 My Role
@@ -42,26 +42,20 @@ Tools
 ![Executive Summary ](https://github.com/user-attachments/assets/f9bcc694-b70f-4350-b2ac-24443a1be6a0)
 
 #### 🟨 Page 2: Customer Behaviour Analysis
-•	New Customers by Month/Quarter/Year.
+-	New Customers by Month/Quarter/Year.
+-	Revenue by Customer Segment.
+-	Avg. Instalments by Segment.
+-	Top Product Categories by State.
 
-•	Revenue by Customer Segment.
-
-•	Avg. Instalments by Segment.
-
-•	Top Product Categories by State.
-
-##### •	💡 Insight: Most customers fall into the <₹1K segment; peak customer acquisition happens in November.
+##### 	💡 Insight: Most customers fall into the <₹1K segment; peak customer acquisition happens in November.
 
 ![Customer Behaviour Analysis](https://github.com/user-attachments/assets/999b67e0-a89f-4696-b18c-6468bcddd994)
 
 #### 🟩 Page 3: Product & Seller Insights
-•	Product Listings by Category.
-
-•	Revenue & Quantity by Category.
-
-•	Top/Least Rated Categories.
-
-•	Seller Segmentation by Revenue.
+-	Product Listings by Category.
+-	Revenue & Quantity by Category.
+-	Top/Least Rated Categories.
+-	Seller Segmentation by Revenue.
 
 ##### •	💡 Insight: “bed_bath_table” is the most listed & sold category; 82% of sellers are low performers.
 ![Product   Seller Insights](https://github.com/user-attachments/assets/45399479-e6bd-478c-a691-19e5e0d0b6aa)
@@ -71,40 +65,30 @@ Tools
 The full SQL work covered:
 
 #### ✅ Data Cleaning
-•	Handled nulls, blanks, placeholder values across Customers, Products, Sellers, Orders, Reviews, etc.
-
-•	Replaced #N/A, computed averages and modes for imputation.
+-	Handled nulls, blanks, placeholder values across Customers, Products, Sellers, Orders, Reviews, etc.
+-	Replaced #N/A, computed averages and modes for imputation.
 
 
 #### ✅ Exploratory Analysis
-•	High-level metrics (Revenue, Quantity, Products, Categories, Sellers, Locations, Payment Types)
-
-•	Repeat customer behavior, monthly retention
-
-•	Revenue trends by date, day of week, hour, location, category.
+-	High-level metrics (Revenue, Quantity, Products, Categories, Sellers, Locations, Payment Types)
+-	Repeat customer behavior, monthly retention
+-	Revenue trends by date, day of week, hour, location, category.
 
 
 #### ✅ Business Questions Addressed
-•	Most/least performing products, sellers, and payment types.
-
-•	Segmentation of customers/sellers based on revenue.
-
-•	Customer satisfaction by rating, location, product, category.
+-	Most/least performing products, sellers, and payment types.
+-	Segmentation of customers/sellers based on revenue.
+-	Customer satisfaction by rating, location, product, category.
 
 
 
 ### 🔍 Key Insights
-•	💸 60% revenue comes from Andhra Pradesh.
-
-•	🕒 Orders spike between 10 AM – 11 PM.
-
-•	💳 78% of payments are via Credit Card.
-
-•	📈 November is the peak month for revenue and new customers.
-
-•	🧺 "bed_bath_table" is the top-selling category.
-
-•	📉 82% sellers earn less than ₹5K revenue.
+-	💸 60% revenue comes from Andhra Pradesh.
+-	🕒 Orders spike between 10 AM – 11 PM.
+-	💳 78% of payments are via Credit Card.
+-	📈 November is the peak month for revenue and new customers.
+- 🧺 "bed_bath_table" is the top-selling category.
+-	📉 82% sellers earn less than ₹5K revenue.
 
 
 
@@ -119,29 +103,23 @@ Since 78% of customers use credit cards, offering exclusive card-based discounts
 ##### 4.	Customer Segmentation Strategy
 ###### With over 90% of customers in the <₹1K revenue segment, consider:
 
-o	Upselling/cross-selling strategies
-
-o	Personalized offers for the ₹1K–₹5K segment
-
-o	Loyalty programs to increase lifetime value
+-	Upselling/cross-selling strategies
+-	Personalized offers for the ₹1K–₹5K segment
+-	Loyalty programs to increase lifetime value
 
 ##### 5.	Seller Development Program
 ###### Since 82% of sellers are low performers:
 
-o	Offer seller training on product visibility, pricing, and customer service
-
-o	Introduce a “Seller Success Toolkit” to help them scale revenue
-
-o	Create tiered seller incentives
+-	Offer seller training on product visibility, pricing, and customer service
+-	Introduce a “Seller Success Toolkit” to help them scale revenue
+-	Create tiered seller incentives
 
 ##### 6.	Improve Low-Rated Categories
 ###### Address poor ratings in "security_and_services" and "office_furniture" by:
 
-o	Gathering more granular customer feedback
-
-o	Vetting sellers in these categories
-
-o	Improving product descriptions and quality control
+-	Gathering more granular customer feedback
+-	Vetting sellers in these categories
+-	Improving product descriptions and quality control
 
 ##### 7.	Leverage Power BI Dashboards for Ongoing Monitoring
 The dashboards created in this project can serve as templates for real-time monitoring by teams across sales, marketing, product, and operations.
