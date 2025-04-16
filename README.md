@@ -10,7 +10,7 @@
 - [🧮 SQL Analysis Highlights](#-SQL-Analysis-Highlights)
 - [🔍 Key Insights](#-Key-Insights)
 - [📝 Recommendations](#-Recommendations)
-- [🙋‍♂️ About Me](#male-sign-about-me)
+- [🙋‍♂️ About Me](#-About-Me)
 
 
 #### 📌 Project Overview
@@ -150,7 +150,7 @@ Since 78% of customers use credit cards, offering exclusive card-based discounts
 The dashboards created in this project can serve as templates for real-time monitoring by teams across sales, marketing, product, and operations.
 
 
-### 🙋‍♂️ About Me
+### 🙋‍♂ About Me
 - Hi, I'm Ansarul – a final-year Computer Science and Data Science student passionate about data analytics, storytelling with visuals, and building smart solutions that drive decisions.
 #####  Let’s connect:
 - [LinkedIn](www.linkedin.com/in/ansarulhoque)
