@@ -13,7 +13,7 @@ I conducted comprehensive data cleaning, SQL analysis, and interactive dashboard
 - [📊 Dashboard Overview (Power BI)](#-Dashboard-Overview-(Power-BI))
 - [🧮 SQL Analysis Highlights](#-SQL-Analysis-Highlights)
 - [🔍 Key Insights](#-Key-Insights)
-- [📝 Recommendations & Next Steps](#-Recommendations-&-Next-Steps)
+- [📝 Recommendations](#-Recommendations)
 - [🙋‍♂️ About Me](#-About-Me)
 
 
@@ -115,7 +115,7 @@ The full SQL work covered:
 
 
 
-### 📝 Recommendations & Next Steps.
+### 📝 Recommendations
 #### Based on the insights from this analysis, here are some strategic recommendations for the business:
 ##### 1.	Expand Operations in High-Revenue States
 Andhra Pradesh contributes nearly 60% of total revenue. Focus marketing efforts, promotions, and inventory expansion in this region, while exploring why other states like Goa have low engagement.
