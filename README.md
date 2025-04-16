@@ -156,7 +156,7 @@ The dashboards created in this project can serve as templates for real-time moni
 ### 🙋‍♂ About Me
 - Hi, I'm Ansarul – a final-year B.Tech CSE (Data Science) student and an aspiring Business Analyst.
 - I'm passionate about turning data into insights, storytelling through visuals, and building smart, data-driven solutions that support better decision-making.
-#### Let’s connect: [LinkedIn](www.linkedin.com/in/ansarulhoque)
+#### Let’s connect: [LinkedIn](www.linkedin.com/in/ansarulhoque/)
 
 
 ### ⭐ If You Found This Useful...
