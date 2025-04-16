@@ -1,4 +1,4 @@
-![relationship](https://github.com/user-attachments/assets/476ab959-2d44-4125-8baf-aff6482fb244)# 🛒 E-Commerce Business Intelligence Project
+# E-Commerce-Business-Intelligence-Project
 
 
 ## Table of Contents
