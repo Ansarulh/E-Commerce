@@ -2,6 +2,7 @@
 
 
 ## Table of Contents
+- [📌 Project Overview](-Project-Overview)
 - [Dataset](#Dataset)
 - [🎯 Business Objectives](#-Business-Objectives)
 - [🧰 Tools and Technologies](#-Tools-and-Technologies)
