@@ -5,7 +5,7 @@
 - [Dataset](#Dataset)
 - [🎯 Business Objectives](#-Business-Objectives)
 - [🧰 Tools and Technologies](#-Tools-and-Technologies)
-- [📊 Dashboard Overview (Power BI)](#-Dashboard-Overview-(-Power-BI-))
+- [📊 Dashboard Overview (Power BI)](#-Dashboard-Overview-Power-BI))
 - [🧮 SQL Analysis Highlights](#-SQL-Analysis-Highlights)
 - [🔍 Key Insights](#-Key-Insights)
 - [📝 Recommendations](#-Recommendations)
