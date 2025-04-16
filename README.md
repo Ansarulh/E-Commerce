@@ -6,9 +6,15 @@ This project was completed as part of a business case where I was hired as a dat
 
 I conducted comprehensive data cleaning, SQL analysis, and interactive dashboarding in Power BI, validated through Excel pivot tables and Power Query.
 
-
+## Tablem of Contents
 - [Dataset](#Dataset)
-- [Business Objectives](#🎯_Business_Objectives)
+- [🎯 Business Objectives](#-Business-Objectives)
+- [🧰 Tools & Technologies](#-Tools-&-Technologies)
+- [📊 Dashboard Overview (Power BI)](#-Dashboard-Overview-(Power-BI))
+- [🧮 SQL Analysis Highlights](#-SQL-Analysis-Highlights)
+- [🔍 Key Insights](#-Key-Insights)
+- [📝 Recommendations & Next Steps](#-Recommendations-&-Next-Steps)
+- [🙋‍♂️ About Me](#-About-Me)
 
 
 ### Dataset
