@@ -10,7 +10,7 @@
 - [🧮 SQL Analysis Highlights](#-SQL-Analysis-Highlights)
 - [🔍 Key Insights](#-Key-Insights)
 - [📝 Recommendations](#-Recommendations)
-- [🙋‍♂️ About Me](#-About-Me)
+- [🙋‍♂️ About Me](#man-raising-hand-about-me)
 
 
 #### 📌 Project Overview
