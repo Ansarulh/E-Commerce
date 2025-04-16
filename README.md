@@ -1,20 +1,21 @@
 # 🛒 E-Commerce Business Intelligence Project
-### Project Overview
 
-#### 📌 Project Overview
-This project was completed as part of a business case where I was hired as a data analyst by XYZ, supporting one of India’s leading online marketplaces. The client wanted to measure, manage, and analyse their business performance with a focus on customer behaviour, seller trends, product popularity, and payment channel insights.
 
-I conducted comprehensive data cleaning, SQL analysis, and interactive dashboarding in Power BI, validated through Excel pivot tables and Power Query.
-
-## Tablem of Contents
+## Table of Contents
 - [Dataset](#Dataset)
 - [🎯 Business Objectives](#-Business-Objectives)
-- [🧰 Tools & Technologies](#-Tools-&-Technologies)
+- [🧰 Tools & Technologies](#-Tools-and-Technologies)
 - [📊 Dashboard Overview (Power BI)](#-Dashboard-Overview-(Power-BI))
 - [🧮 SQL Analysis Highlights](#-SQL-Analysis-Highlights)
 - [🔍 Key Insights](#-Key-Insights)
 - [📝 Recommendations](#-Recommendations)
 - [🙋‍♂️ About Me](#-About-Me)
+
+
+#### 📌 Project Overview
+This project was completed as part of a business case where I was hired as a data analyst by XYZ, supporting one of India’s leading online marketplaces. The client wanted to measure, manage, and analyse their business performance with a focus on customer behaviour, seller trends, product popularity, and payment channel insights.
+
+I conducted comprehensive data cleaning, SQL analysis, and interactive dashboarding in Power BI, validated through Excel pivot tables and Power Query.
 
 
 ### Dataset
@@ -43,7 +44,7 @@ The client shared a set of core business questions to address, including (but no
 As the analyst, I was responsible for turning raw data into actionable insights across SQL Server, Power BI, and Excel. I built an end-to-end solution with clear visuals, KPIs, and business storytelling.
 
 
-#### 🧰 Tools & Technologies
+#### 🧰 Tools and Technologies
 Tools	
 - SQL Server -	Data cleaning, exploratory analysis
   - [Download here](https://www.microsoft.com)
