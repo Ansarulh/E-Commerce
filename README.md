@@ -32,7 +32,7 @@
   - 8. Geo_Locations
    - <a href= "https://github.com/Ansarulh/E-Commerce-Business-Intelligence-Project/blob/main/E-Commerce%20dataset.zip" >Download Dataset
 
-![image](https://github.com/user-attachments/assets/23f7e651-a5fe-48e2-9d37-8202a37ba519)
+![Relationship](https://github.com/user-attachments/assets/23f7e651-a5fe-48e2-9d37-8202a37ba519)
 
 
 
