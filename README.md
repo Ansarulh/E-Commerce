@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Business Intelligence Project
+![relationship](https://github.com/user-attachments/assets/476ab959-2d44-4125-8baf-aff6482fb244)# 🛒 E-Commerce Business Intelligence Project
 
 
 ## Table of Contents
@@ -32,7 +32,7 @@
   - 8. Geo_Locations
    - <a href= "https://github.com/Ansarulh/E-Commerce-Business-Intelligence-Project/blob/main/E-Commerce%20dataset.zip" >Download Dataset
 
-![Relationship](https://github.com/user-attachments/assets/23f7e651-a5fe-48e2-9d37-8202a37ba519)
+
 
 
 
@@ -43,6 +43,8 @@ The client shared a set of core business questions to address, including (but no
 -	Which products/categories are most and least popular?
 -	How are customers paying, and what’s their satisfaction level?
 -	Can we segment customers and sellers based on revenue?
+
+
 
 
 ### 🧰 Tools
