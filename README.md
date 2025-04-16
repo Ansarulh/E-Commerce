@@ -7,6 +7,10 @@ This project was completed as part of a business case where I was hired as a dat
 I conducted comprehensive data cleaning, SQL analysis, and interactive dashboarding in Power BI, validated through Excel pivot tables and Power Query.
 
 
+- [Dataset](#Dataset)
+- [Business Objectives](#🎯_Business_Objectives)
+
+
 ### Dataset
  The dataset have 8 tables
   - 1. Customers
