@@ -63,7 +63,7 @@ Tools
 - Revenue by State, Month, Day,Hour, Payment Types.
 - KPIs: Total Revenue, Quantity, Products, Categories, Locations, AOV, Avg. Rating, Delivery Days.
 
-##### •	💡 Insight: Andhra Pradesh alone contributes ~60% of revenue; most orders are paid via Credit Card.
+##### 💡 Insight: Andhra Pradesh alone contributes ~60% of revenue; most orders are paid via Credit Card.
 
 
 ![Executive Summary ](https://github.com/user-attachments/assets/eae1e7e2-c319-46a4-9e11-5f806db7f971)
