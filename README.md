@@ -124,21 +124,21 @@ Peak sales occur between 10 AM – 11 PM. Run promotions or time-limited deals d
 ##### 3.	Simplify and Promote Credit Card Payments
 Since 78% of customers use credit cards, offering exclusive card-based discounts or cashback could improve retention and boost revenue further.
 ##### 4.	Customer Segmentation Strategy
-###### With over 90% of customers in the <₹1K revenue segment, consider:
+##### With over 90% of customers in the <₹1K revenue segment, consider:
 
 -	Upselling/cross-selling strategies
 -	Personalized offers for the ₹1K–₹5K segment
 -	Loyalty programs to increase lifetime value
 
 ##### 5.	Seller Development Program
-###### Since 82% of sellers are low performers:
+##### Since 82% of sellers are low performers:
 
 -	Offer seller training on product visibility, pricing, and customer service
 -	Introduce a “Seller Success programme” to help them scale revenue
 -	Create tiered seller incentives
 
 ##### 6.	Improve Low-Rated Categories
-###### Address poor ratings in "security_and_services" and "office_furniture" by:
+##### Address poor ratings in "security_and_services" and "office_furniture" by:
 
 -	Gathering more detailed customer feedback
 -	Vetting sellers in these categories
@@ -151,7 +151,7 @@ The dashboards created in this project can serve as templates for real-time moni
 ### 🙋‍♂ About Me
 - Hi, I'm Ansarul – a final-year B.Tech CSE (Data Science) student and an aspiring Business Analyst.
 - I'm passionate about turning data into insights, storytelling through visuals, and building smart, data-driven solutions that support better decision-making.
-#####  Let’s connect: [LinkedIn](www.linkedin.com/in/ansarulhoque)
+#### Let’s connect: [LinkedIn](www.linkedin.com/in/ansarulhoque)
 
 
 ### ⭐ If You Found This Useful...
