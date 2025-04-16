@@ -64,6 +64,8 @@ Tools
 - KPIs: Total Revenue, Quantity, Products, Categories, Locations, AOV, Avg. Rating, Delivery Days.
 
 ##### •	💡 Insight: Andhra Pradesh alone contributes ~60% of revenue; most orders are paid via Credit Card.
+
+
 ![Executive Summary ](https://github.com/user-attachments/assets/eae1e7e2-c319-46a4-9e11-5f806db7f971)
 
 
@@ -76,6 +78,7 @@ Tools
 
 ##### 💡 Insight: Most customers fall into the <₹1K segment; peak customer acquisition happens in November.
 
+
 ![Customer Behaviour Analysis](https://github.com/user-attachments/assets/4c0b39a9-3059-4bc0-85bb-ad8e062d18f7)
 
 
@@ -86,6 +89,7 @@ Tools
 -	Seller Segmentation by Revenue.
 
 ##### 💡 Insight: “bed_bath_table” is the most listed & sold category; 82% of sellers are low performers.
+
 
 ![Product   Seller Insights](https://github.com/user-attachments/assets/ce4edfd3-037d-460d-96e4-8b7ba9bda5c0)
 
