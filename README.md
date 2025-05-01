@@ -1,4 +1,4 @@
-# E-Commerce-Business-Intelligence-Project
+# E-Commerce-Business-Intelligence
 
 
 ## Table of Contents
